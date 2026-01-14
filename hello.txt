@@ -1,3 +1,9 @@
 Hello from the main branch
 
-Add feature-b (WIP) (debugging...)
+<<<<<<< HEAD
+Add feature-b (WIP) 
+=======
+Add feature-b (WIP)
+
+new code that makes feature-b work! 
+>>>>>>> origin/feature-b-2
